@@ -1,0 +1,5 @@
+# Local virtual environment and generated Python files
+.venv/
+Scripts/
+__pycache__/
+*.py[cod]
